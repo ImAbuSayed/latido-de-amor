@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latido-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Latido de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-de-amor/) |
+| **Get License** | [License this song: Latido de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime qué hacemos, mami, en la oscuridad
+> Tus ojos me dicen que no hay casualidad
+> Bailando suave, princesa de Madrid
+> Eres el fuego que quiero para mí
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
