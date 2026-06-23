@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Latido de amor
+
+This log tracks the cryptographic history and versioning for the song **Latido de amor** (latido-de-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T04:49:45.256278 | `v1` | `3c423905d32f61c3c2899813f59bcea66b88ff4f57bff039ca472fb71f853e19` | `7c735803ff90c149bd359b71231d47d41266879ed100be86ea81a08e6cd67629` | `2026-06-24_latido-de-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

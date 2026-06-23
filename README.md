@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latido-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Latido de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-de-amor/) |
+| **Get License** | [Request Licensing for Latido de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3c423905d32f61c3c2899813f59bcea66b88ff4f57bff039ca472fb71f853e19` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
